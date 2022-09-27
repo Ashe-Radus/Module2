@@ -2,7 +2,7 @@
 
 ##Description
 
-Starter website for project links, personal contact info and an about me starter section. 
+Starter website for project links, personal contact info and an about me starter section. All boxes are place holders until projects are completed. As page shrinks background and boxes change color. 
 
 ##Snapshot of Website
 
