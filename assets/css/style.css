@@ -1,0 +1,109 @@
+body {
+background-color: bisque;
+}
+
+.name-section{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.name-card{
+    background-color: #485d43;
+    color: #fefae0;
+    width:30%;
+    min-height: 100px;
+    border: 3px solid black;
+    margin: 3px;
+}
+
+.hero{
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.text-hero{
+    text-align: left;
+    position: absolute;
+    top:50%;
+    left:50%;
+    color: #d8b4a0;
+}
+
+.me-card{
+    background-color: #5d7843;;
+    color: #fefae0;
+    width:30%;
+    min-height: 100px;
+    border: 3px solid black;
+    margin: 3px;
+}
+
+.project-section{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.project-card{
+    background-color:#6d8c4f;
+    width:30%;
+    min-height: 100px;
+    border: 3px solid black;
+    margin: 3px;
+}
+
+.project-card div {
+    color:#fefae0;
+    padding: 20px;
+}
+
+.contact-section{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact-card{
+    color:#fefae0;
+    background-color: #7da15b;
+    width:30%;
+    min-height: 100px;
+    border: 3px solid black;
+    margin: 3px;
+}
+
+@media screen and (max-width: 990px){
+    body{
+        background-color: #dda15e;
+    }
+    .name-card{
+        background-color: #354f52;
+    }
+    .me-card{
+        background-color: #395F60;
+    }
+    .project-card{
+        background-color: #53796f;
+    }
+    .contact-card{
+        background-color: #84a98c;
+    }
+}
+
+@media screen and (max-width: 760px){
+    body{
+        background-color: #bc6c25;
+    }
+    .name-card{
+        background-color: #590000;
+    }
+    .me-card{
+        background-color: #820000;
+    }
+    .project-card{
+        background-color: #a30000;
+    }
+    .contact-card{
+        background-color: #c30000;
+    }
+}
+
