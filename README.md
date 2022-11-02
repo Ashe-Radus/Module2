@@ -12,4 +12,4 @@ Starter website for project links, personal contact info and an about me starter
 
 git hub repository:  https://github.com/Ashe-Radus/Module2.git
 
-deployed website: https://ashe-radus.github.io/Module2/
+deployed website: https://ashe-radus.github.io/Module2/git 
